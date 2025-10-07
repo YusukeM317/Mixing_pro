@@ -1,7 +1,5 @@
 <div align="center">
 
-> Next Project  
-> https://github.com/VectorNetworkProject/Vex
 
 # The Mix
 VectorNetworkの新しいゲームプラグイン！  
